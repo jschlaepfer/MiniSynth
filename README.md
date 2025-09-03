@@ -24,9 +24,12 @@ The ADSR, which should manage the amplitude envelope, doesn't seem to be working
 ### Quick steps (macOS Apple Silicon or Intel)
 
 #### Prerequisites
-Install Xcode (from the App Store), then:
+#####  Install Xcode (from the App Store), then:
+
 	xcode-select --install
-Install CMake and Git (if needed):
+
+#####  Install CMake and Git (if needed):
+
 	brew install cmake git
 
 #### Clone the project wherever you want.

@@ -37,7 +37,6 @@ The ADSR, which should manage the amplitude envelope, doesn't seem to be working
 
 #### Add JUCE as a submodule:
 	cd MiniSynth
-	git init
 	git submodule add https://github.com/juce-framework/JUCE JUCE
 
 #### Build and compile (Xcode)

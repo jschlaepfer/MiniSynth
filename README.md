@@ -20,17 +20,17 @@ The interface needs to be completely redesigned to make it more user-friendly.
 The ADSR, which should manage the amplitude envelope, doesn't seem to be working...
 
 ## How to compile this project
-	git clone https://github.com/jschlaepfer/MiniSynth.git
+	
 ### Quick steps (macOS Apple Silicon or Intel)
 
 #### Prerequisites
-	Install Xcode (from the App Store), then:
-		xcode-select --install
-	Install CMake and Git (if needed):
-		brew install cmake git
+Install Xcode (from the App Store), then:
+	xcode-select --install
+Install CMake and Git (if needed):
+	brew install cmake git
 
 #### Clone the project wherever you want.
-
+	git clone https://github.com/jschlaepfer/MiniSynth.git
 
 #### Add JUCE as a submodule:
 	cd MiniSynth
@@ -47,6 +47,7 @@ The binary files are usually located here:
 #### Installation (optional)
 
 Simply copy the VST3 and AU binaries to the standard directories:
+
 	cp -R build/Debug/MiniSynth_artefacts/Debug/VST3/MiniSynth.vst3 ~/Library/Audio/Plug-Ins/VST3/
 	cp -R build/Debug/MiniSynth_artefacts/Debug/AU/MiniSynth.component ~/Library/Audio/Plug-Ins/Components/
 

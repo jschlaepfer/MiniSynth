@@ -1,0 +1,12 @@
+{
+  "name": "Analog Chorus Pad",
+  "values": {
+    "osc1Wave": 1, "osc2Wave": 5, "osc3Wave": 3,
+    "detune1": 6.0, "detune2": -6.0, "detune3": 3.0,
+    "mix1": 0.6, "mix2": 0.6, "mix3": 0.3,
+    "lfoRate": 0.28, "lfoDepth": 0.35, "lfoTarget": 1.0,
+    "filterType": 0, "cutoff": 1800.0, "resonance": 0.7,
+    "attack": 0.6, "decay": 0.8, "sustain": 0.85, "release": 2.4,
+    "gain": -9.0
+  }
+}

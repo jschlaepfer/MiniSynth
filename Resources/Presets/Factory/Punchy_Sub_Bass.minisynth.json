@@ -1,0 +1,11 @@
+{
+  "name": "Punchy Sub Bass",
+  "values": {
+    "osc1Wave": 0, "osc2Wave": 2, "osc3Wave": 0,
+    "mix1": 0.7, "mix2": 0.3, "mix3": 0.0,
+    "subOn": 1.0, "subWave": 0.0, "subOct": 2.0, "subLevel": 0.6, "subDrive": 6.0,
+    "filterType": 0, "cutoff": 120.0, "resonance": 0.8,
+    "attack": 0.003, "decay": 0.1, "sustain": 0.65, "release": 0.1,
+    "gain": -4.0
+  }
+}

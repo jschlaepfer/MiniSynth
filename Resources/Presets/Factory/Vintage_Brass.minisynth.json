@@ -1,0 +1,11 @@
+{
+  "name": "Vintage Brass",
+  "values": {
+    "osc1Wave": 1, "osc2Wave": 1, "osc3Wave": 3,
+    "mix1": 0.7, "mix2": 0.5, "mix3": 0.2,
+    "filterType": 0, "cutoff": 1800.0, "resonance": 0.9,
+    "fAmount": 0.5, "fAttack": 0.01, "fDecay": 0.18, "fSustain": 0.2, "fRelease": 0.25,
+    "attack": 0.005, "decay": 0.18, "sustain": 0.6, "release": 0.3,
+    "gain": -8.0
+  }
+}

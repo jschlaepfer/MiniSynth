@@ -1,0 +1,13 @@
+{
+  "name": "PWM Strings",
+  "values": {
+    "osc1Wave": 2, "osc2Wave": 2, "osc3Wave": 2,
+    "pwm1": 0.5, "pwm2": 0.5, "pwm3": 0.5,
+    "pwmDepth1": 0.3, "pwmDepth2": 0.25, "pwmDepth3": 0.2,
+    "pwmRate1": 0.3, "pwmRate2": 0.25, "pwmRate3": 0.2,
+    "mix1": 0.6, "mix2": 0.5, "mix3": 0.4,
+    "filterType": 0, "cutoff": 2500.0, "resonance": 0.7,
+    "attack": 0.25, "decay": 0.5, "sustain": 0.9, "release": 1.2,
+    "gain": -9.0
+  }
+}

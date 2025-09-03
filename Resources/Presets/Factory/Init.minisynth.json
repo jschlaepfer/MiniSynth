@@ -1,0 +1,10 @@
+{
+  "name": "Init",
+  "values": {
+    "osc1Wave": 1, "osc2Wave": 2, "osc3Wave": 0,
+    "mix1": 0.8, "mix2": 0.0, "mix3": 0.0,
+    "attack": 0.01, "decay": 0.12, "sustain": 0.8, "release": 0.25,
+    "filterType": 0, "cutoff": 12000.0, "resonance": 0.7,
+    "gain": -6.0
+  }
+}

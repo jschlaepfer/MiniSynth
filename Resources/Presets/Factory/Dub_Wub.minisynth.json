@@ -1,0 +1,12 @@
+{
+  "name": "Dub Wub",
+  "values": {
+    "osc1Wave": 2, "osc2Wave": 1, "osc3Wave": 4,
+    "pwm1": 0.45, "pwmDepth1": 0.4, "pwmRate1": 0.25,
+    "mix1": 0.7, "mix2": 0.2, "mix3": 0.2,
+    "filterType": 0, "cutoff": 500.0, "resonance": 0.9,
+    "lfoRate": 0.25, "lfoDepth": 0.9, "lfoTarget": 3.0,
+    "attack": 0.01, "decay": 0.2, "sustain": 0.8, "release": 0.4,
+    "gain": -7.0
+  }
+}

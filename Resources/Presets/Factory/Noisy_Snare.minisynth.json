@@ -1,0 +1,10 @@
+{
+  "name": "Noisy Snare",
+  "values": {
+    "osc1Wave": 4, "osc2Wave": 4, "osc3Wave": 4,
+    "mixNoiseW": 0.8, "mixNoiseP": 0.3, "mixNoiseB": 0.0,
+    "filterType": 2, "cutoff": 6000.0, "resonance": 0.6,
+    "attack": 0.001, "decay": 0.25, "sustain": 0.0, "release": 0.15,
+    "gain": -12.0
+  }
+}

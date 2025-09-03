@@ -1,0 +1,11 @@
+{
+  "name": "Metal FM Pluck",
+  "values": {
+    "osc1Wave": 3, "osc2Wave": 3, "osc3Wave": 1,
+    "mix1": 0.8, "mix2": 0.0, "mix3": 0.2,
+    "fm31": 8.0,
+    "filterType": 0, "cutoff": 5500.0, "resonance": 0.8,
+    "attack": 0.005, "decay": 0.18, "sustain": 0.0, "release": 0.25,
+    "gain": -9.0
+  }
+}

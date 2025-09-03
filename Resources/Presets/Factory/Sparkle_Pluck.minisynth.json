@@ -1,0 +1,10 @@
+{
+  "name": "Sparkle Pluck",
+  "values": {
+    "osc1Wave": 3, "osc2Wave": 1, "osc3Wave": 2,
+    "mix1": 0.6, "mix2": 0.5, "mix3": 0.2,
+    "filterType": 2, "cutoff": 7000.0, "resonance": 0.7,
+    "attack": 0.002, "decay": 0.18, "sustain": 0.0, "release": 0.2,
+    "gain": -8.0
+  }
+}

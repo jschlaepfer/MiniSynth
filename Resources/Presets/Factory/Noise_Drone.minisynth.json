@@ -1,0 +1,12 @@
+{
+  "name": "Noise Drone",
+  "values": {
+    "osc1Wave": 4, "osc2Wave": 4, "osc3Wave": 4,
+    "mixNoiseW": 0.6, "mixNoiseP": 0.3, "mixNoiseB": 0.1,
+    "noiseHPFOn": 1.0, "noiseHPF": 200.0,
+    "filterType": 1, "cutoff": 1800.0, "resonance": 1.2,
+    "lfoRate": 0.15, "lfoDepth": 0.5, "lfoTarget": 3.0,
+    "attack": 1.0, "decay": 0.8, "sustain": 0.75, "release": 1.8,
+    "gain": -10.0
+  }
+}

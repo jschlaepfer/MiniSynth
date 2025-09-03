@@ -1,0 +1,11 @@
+{
+  "name": "Poly Keys",
+  "values": {
+    "osc1Wave": 1, "osc2Wave": 3, "osc3Wave": 2,
+    "mix1": 0.7, "mix2": 0.3, "mix3": 0.2,
+    "detune1": 3.0, "detune2": -3.0,
+    "filterType": 0, "cutoff": 4200.0, "resonance": 0.6,
+    "attack": 0.01, "decay": 0.18, "sustain": 0.7, "release": 0.5,
+    "gain": -7.0
+  }
+}

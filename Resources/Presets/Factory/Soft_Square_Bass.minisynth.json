@@ -1,0 +1,12 @@
+{
+  "name": "Soft Square Bass",
+  "values": {
+    "osc1Wave": 2, "osc2Wave": 2, "osc3Wave": 0,
+    "pwm1": 0.48, "pwm2": 0.52, "pwmDepth1": 0.15, "pwmDepth2": 0.1, "pwmRate1": 0.9, "pwmRate2": 0.6,
+    "mix1": 0.8, "mix2": 0.2, "mix3": 0.0,
+    "subOn": 1.0, "subWave": 1.0, "subOct": 2.0, "subLevel": 0.4, "subDrive": 8.0,
+    "filterType": 0, "cutoff": 200.0, "resonance": 0.8,
+    "attack": 0.005, "decay": 0.12, "sustain": 0.7, "release": 0.12,
+    "gain": -5.0
+  }
+}

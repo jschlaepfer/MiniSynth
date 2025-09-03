@@ -2,7 +2,7 @@
     File: PluginEditor.cpp
     Project: MiniSynth
     Revision: 1.0.0
-    Date: 2025-08-19
+    Date: 2025-09-03
     Description:
         Implements the editor: builds controls, binds APVTS attachments,
         presets toolbar, and compact/full layouts. (Patched to remove deprecated
